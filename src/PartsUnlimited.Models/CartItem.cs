@@ -9,6 +9,7 @@ namespace PartsUnlimited.Models
     public class CartItem
     {
         // mi primer cambio en c# en github
+        // y ahora el segundo en esta clase
         [Key]
         public int CartItemId { get; set; }
 
